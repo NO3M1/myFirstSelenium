@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a49bc1a1-cdc0-4c73-a91c-ec90ee52aebc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/automateBrowsers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/myFirstClass.java" afterDir="false" />
+    <list default="true" id="a49bc1a1-cdc0-4c73-a91c-ec90ee52aebc" name="Changes" comment="day1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +37,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.myFirstClass">
+  <component name="RunManager" selected="Application.automateBrowsers">
     <configuration name="automateBrowsers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="automateBrowsers" />
       <module name="myFirstSeleniumUdemy" />
@@ -73,8 +67,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.myFirstClass" />
         <item itemvalue="Application.automateBrowsers" />
+        <item itemvalue="Application.myFirstClass" />
       </list>
     </recent_temporary>
   </component>
@@ -87,6 +81,14 @@
       <option name="presentableId" value="Default" />
       <updated>1672217383440</updated>
     </task>
+    <task id="LOCAL-00001" summary="day1">
+      <created>1672220950875</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672220950875</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -99,5 +101,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="day1" />
+    <option name="LAST_COMMIT_MESSAGE" value="day1" />
   </component>
 </project>

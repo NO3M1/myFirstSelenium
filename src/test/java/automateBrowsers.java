@@ -15,7 +15,7 @@ public class automateBrowsers {
         /*WebDriverManager.safaridriver().setup(); // Safari - error I m not on ios. -- develop- allow remove automation must be checked
         WebDriver driver = new SafariDriver();*/
 
-        System.out.println("modif2");
+        System.out.println("modif3");
 
     }
 }

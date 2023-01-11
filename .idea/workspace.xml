@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a49bc1a1-cdc0-4c73-a91c-ec90ee52aebc" name="Changes" comment="another try">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Variables.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/automateBrowsers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/automateBrowsers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/myFirstClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/myFirstClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/automateBrowsers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/AutomateBrowsers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/myFirstClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MyFirstClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,20 +49,42 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "C:/Users/nszoke/OneDrive - ENDAVA/Desktop/Noemi/GITHUB/MySeleniumProject",
     "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.automateBrowsers">
-    <configuration name="automateBrowsers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="automateBrowsers" />
+  <component name="RunManager" selected="Application.FindUsingCss">
+    <configuration name="AutomationPage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AutomationPage" />
       <module name="myFirstSeleniumUdemy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="myFirstClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myFirstClass" />
+    <configuration name="FindLinkText" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindLinkText" />
+      <module name="myFirstSeleniumUdemy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindUsingCss" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindUsingCss" />
+      <module name="myFirstSeleniumUdemy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TagName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TagName" />
+      <module name="myFirstSeleniumUdemy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Variables" />
       <module name="myFirstSeleniumUdemy" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -68,8 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.automateBrowsers" />
-        <item itemvalue="Application.myFirstClass" />
+        <item itemvalue="Application.FindUsingCss" />
+        <item itemvalue="Application.TagName" />
+        <item itemvalue="Application.FindLinkText" />
+        <item itemvalue="Application.AutomationPage" />
+        <item itemvalue="Application.Variables" />
       </list>
     </recent_temporary>
   </component>
